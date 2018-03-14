@@ -1,0 +1,12 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    background: #F44336;
+    align-items: center;
+    color: white;
+}
+
+li{
+    list-style: none;
+    cursor: pointer;
+}
